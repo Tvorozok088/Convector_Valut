@@ -28,8 +28,6 @@ const translations = {
   },
 };
 
-
-
 let currentLanguage = "en";
 
 document
